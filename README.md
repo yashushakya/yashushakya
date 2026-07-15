@@ -2,11 +2,10 @@
 
 Computer Science student at **IET DAVV**, actively building toward SDE / fintech engineering roles. I like solving hard problems, shipping full-stack projects, and understanding systems from the ground up.
 
-- 🔭 Currently building **CareWise** (hospital appointment booking, MERN) and a **School Management System** (PHP/MySQL)
 - 🧠 Solved 500+ DSA problems, strong in C++
 - 🌱 Deepening core CS: OS, DBMS, CN, OOPs, SQL
-- 🎯 Prepping for placements — Barclays, Nokia, Mu Sigma
-- ♟️ Off-screen: competitive Pokémon (singles ladder) & Contexto
+- 🎯 Prepping for placements 
+- ♟️ Off-screen: competitive Pokémon Showdown
 - 📫 Reach me at: **yashushakya2005@gmail.com**
 
 ---
