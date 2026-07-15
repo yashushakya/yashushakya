@@ -3,11 +3,11 @@
 Computer Science student at **IET DAVV**, actively building toward SDE / fintech engineering roles. I like solving hard problems, shipping full-stack projects, and understanding systems from the ground up.
 
 - 🔭 Currently building **CareWise** (hospital appointment booking, MERN) and a **School Management System** (PHP/MySQL)
-- 🧠 Solved 300+ DSA problems (Striver's A2Z Sheet), strong in C++
+- 🧠 Solved 500+ DSA problems, strong in C++
 - 🌱 Deepening core CS: OS, DBMS, CN, OOPs, SQL
 - 🎯 Prepping for placements — Barclays, Nokia, Mu Sigma
 - ♟️ Off-screen: competitive Pokémon (singles ladder) & Contexto
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **yashushakya2005@gmail.com**
 
 ---
 
@@ -65,5 +65,5 @@ A PHP/MySQL system for managing student records, staff, and school operations, d
 
 ## 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/yashu-shakya03)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashushakya2005@gmail.com)
