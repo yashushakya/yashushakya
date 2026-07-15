@@ -57,9 +57,9 @@ A PHP/MySQL system for managing student records, staff, and school operations, d
 
 ## 📊 GitHub Stats
 
-![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+![Yashu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashushakya&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashushakya&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashushakya)
 
 ---
 
