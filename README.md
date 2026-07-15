@@ -40,15 +40,15 @@ Computer Science student at **IET DAVV**, actively building toward SDE / fintech
 
 ## 🚀 Featured Projects
 
-### 🏥 [CareWise](https://github.com/your-username/carewise)
+### 🏥 [CareWise](https://github.com/yashushakya/carewise)
 A MERN stack hospital appointment booking platform. Patients book doctor appointments online; admins/doctors manage schedules via dedicated dashboards.
 `React` `Node.js` `Express` `MongoDB Atlas` — Deployed on Render + Vercel
 
-### 🍿 [GrabAndCorn](https://github.com/your-username/grabandcorn)
+### 🍿 [GrabAndCorn](https://github.com/yashushakya/grabandcorn)
 A full-stack movie ticket booking app with seat selection and booking management.
 `React (Vite)` `Redux Toolkit` `Node.js` `Express` `MongoDB` `Clerk Auth`
 
-### 🏫 [School Management System](https://github.com/your-username/school-management-system)
+### 🏫 [School Management System](https://github.com/yashushakya/school-management-system)
 A PHP/MySQL system for managing student records, staff, and school operations, deployed on InfinityFree.
 `PHP` `Bootstrap` `MySQL`
 
