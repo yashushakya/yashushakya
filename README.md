@@ -2,7 +2,7 @@
 
 Computer Science student at **IET DAVV**, actively building toward SDE / fintech engineering roles. I like solving hard problems, shipping full-stack projects, and understanding systems from the ground up.
 
-- 🧠 Solved 500+ DSA problems across all platforms(Leetcode,GFG,codeforces,codechef), strong in C++
+- 🧠 Solved 500+ DSA problems across all platforms(Leetcode, GFG, codeforces, codechef, etc), strong in C++
 - 🌱 Deepening core CS: OS, DBMS, CN, OOPs, SQL
 - 🎯 Prepping for placements 
 - ♟️ Off-screen: competitive Pokémon Showdown
