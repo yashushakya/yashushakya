@@ -36,6 +36,9 @@ Computer Science student at **IET DAVV**, actively building toward SDE / fintech
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 
+**CS Fundamentals**
+Data Structures & Algorithms · DBMS · OOP · Operating Systems · Computer Networks
+
 ---
 
 ## 🚀 Featured Projects
